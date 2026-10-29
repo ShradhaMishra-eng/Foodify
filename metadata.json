@@ -1,0 +1,6 @@
+{
+  "name": "MJPRU Digital Canteen",
+  "description": "Smart digital college canteen platform for Mahatma Jyotiba Phule Rohilkhand University, Bareilly. Browse menus, order meals, pay digitally, and skip queues with instant order tokens.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
